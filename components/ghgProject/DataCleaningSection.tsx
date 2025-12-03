@@ -109,11 +109,13 @@ export default function DataCleaningSection() {
 
               <div className="bg-bg-card rounded-lg p-4 border border-accent-teal/20">
                 <h4 className="font-semibold text-accent-primary mb-2">2. Emissions Columns</h4>
-                <p className="text-sm text-text-secondary mb-2">
-                  For all emissions columns (<code className="text-accent-teal">total_reported_direct_emissions</code>, 
-                  <code className="text-accent-teal">co2_emissions_non_biogenic</code>, 
-                  <code className="text-accent-teal">ch4_emissions</code>, 
-                  <code className="text-accent-teal">n2o_emissions</code>), missing values were filled with 0 using:
+                <p className="text-sm text-text-secondary mb-2 break-words">
+                  For all emissions columns (
+                  <code className="text-accent-teal break-all">total_reported_direct_emissions</code>, 
+                  <code className="text-accent-teal break-all">co2_emissions_non_biogenic</code>, 
+                  <code className="text-accent-teal break-all">ch4_emissions</code>, 
+                  <code className="text-accent-teal break-all">n2o_emissions</code>
+                  ), missing values were filled with 0 using:
                 </p>
                 <div className="bg-bg-body rounded p-2 mt-2">
                   <code className="text-xs text-text-secondary">
