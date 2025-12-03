@@ -1,6 +1,9 @@
 import { useState, useEffect } from 'react'
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8001'
+// Use relative API routes when deployed, fallback to localhost for development
+const API_BASE = typeof window !== 'undefined' 
+  ? (process.env.NEXT_PUBLIC_API_URL || '/api')
+  : (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8001')
 
 export interface TrendData {
   year: number
