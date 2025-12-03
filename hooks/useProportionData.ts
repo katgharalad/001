@@ -44,19 +44,19 @@ export function useProportionData(year: number = 2023) {
       .then((apiData: { sectors: Array<{ sector: string; emissions: number; percent: number }> }) => {
         // Get top 8 sectors and group the rest as "Other" (matching notebook)
         // Use absolute emissions values from backend, not percentages
+        // API already returns emissions in millions
         const top8 = apiData.sectors.slice(0, 8)
         const otherEmissions = apiData.sectors.slice(8).reduce((sum, s) => sum + (s.emissions || 0), 0)
         
-        // Convert emissions from metric tons to millions for display
         const formattedData: SectorProportion[] = [
           ...top8.map((s, idx) => ({
             name: s.sector,
-            value: (s.emissions || 0) / 1e6, // Convert to millions
+            value: s.emissions || 0, // Already in millions from API
             color: sectorColors[s.sector] || set3Colors[idx % set3Colors.length],
           })),
           ...(otherEmissions > 0 ? [{
             name: 'Other',
-            value: otherEmissions / 1e6, // Convert to millions
+            value: otherEmissions, // Already in millions from API
             color: set3Colors[8], // Light gray for "Other"
           }] : []),
         ]

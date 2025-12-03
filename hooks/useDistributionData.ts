@@ -33,9 +33,9 @@ export function useDistributionData(year: number = 2023) {
           return
         }
         
-        // Get emissions in millions
+        // API returns emissions in metric tons, convert to millions
         const emissions = apiData.facilities
-          .map(f => (f.total_emissions || 0) / 1e6) // Convert to millions
+          .map(f => (f.total_emissions || 0) / 1e6) // Convert from metric tons to millions
           .filter(e => e > 0)
         
         if (emissions.length === 0) {

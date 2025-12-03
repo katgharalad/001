@@ -37,10 +37,10 @@ export function useNationalTrend() {
         return res.json()
       })
       .then((apiData: Array<{ year: number; emissions: number; facilities: number }>) => {
-        // Convert emissions from metric tons to millions (matching notebook)
+        // API already returns emissions in millions, use directly
         const formattedData: TrendData[] = apiData.map(item => ({
           year: item.year,
-          emissions: item.emissions / 1e6, // Convert to millions
+          emissions: item.emissions, // Already in millions from API
           facilities: item.facilities,
         }))
         setData(formattedData)
@@ -73,10 +73,10 @@ export function useTopStates(year: number = 2023) {
       .then((apiData: { states?: TopState[], year?: number, limit?: number }) => {
         // Handle both response formats
         const states = apiData.states || []
-        // Convert emissions from metric tons to millions
+        // API already returns emissions in millions, use directly
         const formattedData: TopState[] = states.map(state => ({
           ...state,
-          emissions: state.emissions / 1e6, // Convert to millions
+          emissions: state.emissions, // Already in millions from API
         }))
         setData(formattedData)
         setLoading(false)
@@ -108,10 +108,10 @@ export function useTopSectors(year: number = 2023) {
       .then((apiData: { sectors?: TopSector[], year?: number, limit?: number }) => {
         // Handle both response formats
         const sectors = apiData.sectors || []
-        // Convert emissions from metric tons to millions
+        // API already returns emissions in millions, use directly
         const formattedData: TopSector[] = sectors.map(sector => ({
           ...sector,
-          emissions: sector.emissions / 1e6, // Convert to millions
+          emissions: sector.emissions, // Already in millions from API
         }))
         setData(formattedData)
         setLoading(false)
