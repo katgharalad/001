@@ -1,6 +1,8 @@
 import { NextResponse } from 'next/server'
 import { loadFacilityData, loadStateYearData } from '@/lib/csv-loader'
 
+export const dynamic = 'force-dynamic'
+
 export async function GET() {
   try {
     const facilityData = await loadFacilityData()
