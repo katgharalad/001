@@ -1,9 +1,7 @@
 import { useState, useEffect } from 'react'
 
-// Use relative API routes when deployed, fallback to localhost for development
-const API_BASE = typeof window !== 'undefined' 
-  ? (process.env.NEXT_PUBLIC_API_URL || '/api')
-  : (process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8001')
+// Use empty string for Next.js API routes, or FastAPI backend URL
+const API_BASE = process.env.NEXT_PUBLIC_API_URL || ''
 
 export interface DatasetStats {
   total_records: number
