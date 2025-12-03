@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US GHG Emissions Control Panel</title>
+    <!-- Neue Haas Grotesk via Adobe Fonts / Typekit -->
+    <link rel="preconnect" href="https://use.typekit.net" crossorigin>
+    <link rel="preconnect" href="https://p.typekit.net" crossorigin>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Shader Lines Background -->
+    <div id="shader-background" class="shader-background"></div>
+    
+    <!-- Left Icon Rail -->
+    <aside class="left-rail">
+        <div class="rail-content">
+            <div class="logo">
+                <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                    <circle cx="16" cy="16" r="14" stroke="var(--accent-primary)" stroke-width="2"/>
+                    <path d="M16 8 L16 24 M8 16 L24 16" stroke="var(--accent-primary)" stroke-width="2"/>
+                </svg>
+            </div>
+            <nav class="rail-nav">
+                <a href="#" class="nav-item active" data-view="overview" data-filter="all-data">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <rect x="2" y="2" width="7" height="7" stroke="currentColor" stroke-width="1.5"/>
+                        <rect x="11" y="2" width="7" height="7" stroke="currentColor" stroke-width="1.5"/>
+                        <rect x="2" y="11" width="7" height="7" stroke="currentColor" stroke-width="1.5"/>
+                        <rect x="11" y="11" width="7" height="7" stroke="currentColor" stroke-width="1.5"/>
+                    </svg>
+                    <span class="nav-label">Overview</span>
+                </a>
+                <a href="#" class="nav-item" data-view="power" data-filter="power-sector">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M10 2 L2 7 L2 13 L10 18 L18 13 L18 7 Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
+                        <path d="M10 2 L10 18" stroke="currentColor" stroke-width="1.5"/>
+                    </svg>
+                    <span class="nav-label">Power Sector</span>
+                </a>
+                <a href="#" class="nav-item" data-view="top-states" data-filter="top5-states">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <path d="M10 2 L18 6 L18 14 L10 18 L2 14 L2 6 Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
+                    </svg>
+                    <span class="nav-label">Top 5 States</span>
+                </a>
+                <a href="#" class="nav-item" data-view="reduction" data-filter="reduction-states">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <circle cx="10" cy="10" r="8" stroke="currentColor" stroke-width="1.5" fill="none"/>
+                        <path d="M10 2 L10 18 M2 10 L18 10" stroke="currentColor" stroke-width="1.5"/>
+                    </svg>
+                    <span class="nav-label">Reduction States</span>
+                </a>
+                <a href="#" class="nav-item" data-view="methane" data-filter="high-methane">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                        <circle cx="10" cy="10" r="2" fill="currentColor"/>
+                        <path d="M10 2 L10 4 M10 16 L10 18 M18 10 L16 10 M4 10 L2 10" stroke="currentColor" stroke-width="1.5"/>
+                    </svg>
+                    <span class="nav-label">High Methane</span>
+                </a>
+            </nav>
+            <div class="user-avatar">
+                <div class="avatar-circle"></div>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content-wrapper">
+        <div class="content-container">
+            <!-- Header row: title + view pills -->
+            <header class="page-header-container card">
+                <div class="page-header">
+                    <div class="header-left">
+                        <h1 class="page-title">GHG Stats</h1>
+                        <p class="page-subtitle" id="page-subtitle">2010–2023 — EPA GHGRP</p>
+                    </div>
+                    <div class="header-right">
+                        <div class="view-pill active" data-view="overview">US Overview</div>
+                        <div class="view-pill" data-view="state">By State</div>
+                        <div class="view-pill" data-view="sector">By Sector</div>
+                    </div>
+                </div>
+            </header>
+            
+            <!-- Year selector - top right, no container -->
+            <div class="year-selector">
+                <div class="year-label">Year</div>
+                <div class="year-value-wrapper">
+                    <div class="year-value" id="selected-scope">2023</div>
+                </div>
+                <div class="year-controls">
+                    <button class="chevron-btn" id="year-prev" title="Previous year">‹</button>
+                    <button class="chevron-btn" id="year-next" title="Next year">›</button>
+                </div>
+            </div>
+
+            <!-- Hero row: big emissions chart + state leaders mini chart -->
+            <section class="hero-row">
+                <div class="hero-main-card card">
+                    <div class="hero-label-row">
+                        <span class="hero-label">Total Emissions Activity</span>
+                        <div class="hero-toggle">
+                            <span class="toggle-option active" data-compare="baseline">vs 2010</span>
+                            <span class="toggle-option" data-compare="previous">vs Previous Year</span>
+                        </div>
+                    </div>
+                    <div class="hero-kpi-circle">
+                        <div class="kpi-value" id="hero-kpi-value">0</div>
+                        <div class="kpi-label" id="hero-kpi-year-label">2023 Total</div>
+                    </div>
+                    <div class="hero-chart-container">
+                        <canvas id="hero-chart"></canvas>
+                    </div>
+                </div>
+                
+                <div class="state-leaders-card card">
+                    <h3 class="mini-chart-title">State Leaders <span class="year-badge" id="mini-chart-year">2023</span></h3>
+                    <div class="mini-chart-container">
+                        <canvas id="mini-bar-chart"></canvas>
+                    </div>
+                    <div class="mini-chart-footer">
+                        <span id="min-label">Min: 0</span>
+                        <span id="max-label">Max: 0</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- KPI grid: four high-level stats -->
+            <section class="kpi-row">
+            <div class="kpi-card card gradient-blue-teal">
+                <div class="kpi-card-header">
+                    <div class="kpi-icon">🏭</div>
+                    <div class="kpi-change positive" id="kpi1-change">
+                        <span class="change-arrow">↓</span>
+                        <span class="change-value">0%</span>
+                    </div>
+                </div>
+                <div class="kpi-label">TOTAL US EMISSIONS</div>
+                <div class="kpi-value-large" id="kpi1-value">0</div>
+                <div class="kpi-caption">vs 2010 baseline</div>
+            </div>
+
+            <div class="kpi-card card gradient-orange-pink">
+                <div class="kpi-card-header">
+                    <div class="kpi-icon">⚡</div>
+                    <div class="kpi-change" id="kpi2-change">
+                        <span class="change-arrow">—</span>
+                        <span class="change-value">0%</span>
+                    </div>
+                </div>
+                <div class="kpi-label">POWER SECTOR SHARE</div>
+                <div class="kpi-value-large" id="kpi2-value">0%</div>
+                <div class="kpi-caption">of total emissions</div>
+            </div>
+
+            <div class="kpi-card card gradient-lime-green">
+                <div class="kpi-card-header">
+                    <div class="kpi-icon">🏢</div>
+                    <div class="kpi-change positive" id="kpi3-change">
+                        <span class="change-arrow">↑</span>
+                        <span class="change-value">0%</span>
+                    </div>
+                </div>
+                <div class="kpi-label">FACILITIES REPORTING</div>
+                <div class="kpi-value-large" id="kpi3-value">0</div>
+                <div class="kpi-caption">active facilities</div>
+            </div>
+
+            <div class="kpi-card card gradient-blue-lime">
+                <div class="kpi-card-header">
+                    <div class="kpi-icon">🌱</div>
+                    <div class="kpi-change positive" id="kpi4-change">
+                        <span class="change-arrow">↑</span>
+                        <span class="change-value">0</span>
+                    </div>
+                </div>
+                <div class="kpi-label">LOW-EMISSION STATES</div>
+                <div class="kpi-value-large" id="kpi4-value">0</div>
+                <div class="kpi-caption">below 25th percentile</div>
+            </div>
+            </section>
+
+            <!-- Progress + stat pills row -->
+            <section class="bottom-section">
+                <div class="progress-card card">
+            <div class="progress-header">
+                <div class="progress-title-section">
+                    <h3 class="progress-title">Decarbonization Progress (2010–2023)</h3>
+                    <p class="progress-subtitle">US Total Emissions Trend & Reduction</p>
+                </div>
+                <div class="progress-stats">
+                    <div class="progress-stat-item">
+                        <span class="stat-label">Total Reduction</span>
+                        <span class="stat-value" id="total-reduction">-25.5%</span>
+                    </div>
+                    <div class="progress-stat-item">
+                        <span class="stat-label">vs 2010 Baseline</span>
+                        <span class="stat-value" id="baseline-comparison">2.4B → 1.8B</span>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-chart-container">
+                <canvas id="progress-sparkline"></canvas>
+            </div>
+            <div class="progress-footer">
+                <div class="progress-metrics">
+                    <div class="metric-item">
+                        <span class="metric-label">2010 Baseline</span>
+                        <span class="metric-value" id="baseline-value">3.2B CO₂e</span>
+                    </div>
+                    <div class="metric-item">
+                        <span class="metric-label">2023 Current</span>
+                        <span class="metric-value" id="current-value">2.4B CO₂e</span>
+                    </div>
+                    <div class="metric-item">
+                        <span class="metric-label">Reduced</span>
+                        <span class="metric-value positive" id="reduced-value">-800M CO₂e</span>
+                    </div>
+                    <div class="metric-item">
+                        <span class="metric-label">Avg Annual Rate</span>
+                        <span class="metric-value" id="annual-rate">-1.8%/yr</span>
+                    </div>
+                    </div>
+                </div>
+                
+                <div class="stat-pills-grid">
+                    <div class="stat-pill">
+                        <span class="pill-icon">🗺️</span>
+                        <span class="pill-text">States Covered: <strong id="stat-states">50</strong></span>
+                    </div>
+                    <div class="stat-pill">
+                        <span class="pill-icon">🏭</span>
+                        <span class="pill-text">Facilities: <strong id="stat-facilities">8000+</strong></span>
+                    </div>
+                    <div class="stat-pill">
+                        <span class="pill-icon">📊</span>
+                        <span class="pill-text">Sectors: <strong id="stat-sectors">30</strong></span>
+                    </div>
+                    <div class="stat-pill">
+                        <span class="pill-icon">📅</span>
+                        <span class="pill-text">Years: <strong>2010–2023</strong></span>
+                    </div>
+                    <div class="stat-pill">
+                        <span class="pill-icon">📈</span>
+                        <span class="pill-text">Data Points: <strong id="stat-datapoints">100K+</strong></span>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <script src="shader-lines.js"></script>
+    <script>
+        // Initialize shader lines background - run immediately
+        console.log('Script loaded, setting up shader...');
+        
+        let shaderLinesInstance = null;
+        
+        function initShader() {
+            console.log('initShader called');
+            const shaderContainer = document.getElementById('shader-background');
+            console.log('Shader container found:', !!shaderContainer);
+            
+            if (shaderContainer) {
+                if (!shaderLinesInstance) {
+                    console.log('Creating new ShaderLines instance...');
+                    shaderLinesInstance = new ShaderLines(shaderContainer);
+                }
+                console.log('Calling shaderLinesInstance.init()...');
+                shaderLinesInstance.init();
+                
+                // Retry if Three.js takes time to load
+                setTimeout(() => {
+                    if (shaderLinesInstance && !shaderLinesInstance.initialized) {
+                        console.log('Retrying shader initialization after 1 second...');
+                        shaderLinesInstance.init();
+                    } else if (shaderLinesInstance && shaderLinesInstance.initialized) {
+                        console.log('✅ Shader successfully initialized!');
+                    }
+                }, 2000);
+            } else {
+                console.error('❌ Shader container not found!');
+            }
+        }
+        
+        // Try multiple initialization strategies
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', () => {
+                console.log('DOMContentLoaded fired');
+                initShader();
+            });
+        } else {
+            console.log('DOM already loaded, initializing immediately');
+            initShader();
+        }
+        
+        // Also try after a short delay
+        setTimeout(() => {
+            if (!shaderLinesInstance || !shaderLinesInstance.initialized) {
+                console.log('Delayed initialization attempt...');
+                initShader();
+            }
+        }, 500);
+        
+        // Cleanup on page unload
+        window.addEventListener('beforeunload', () => {
+            if (shaderLinesInstance) {
+                shaderLinesInstance.destroy();
+            }
+        });
+    </script>
+    <script src="dashboard.js"></script>
+</body>
+</html>
+

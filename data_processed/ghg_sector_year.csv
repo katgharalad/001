@@ -1,0 +1,850 @@
+sector,year,total_emissions,co2,ch4,n2o,facility_count
+Chemicals,2010,104113078.23,92548396.7,141861.75,11422819.78,340
+Chemicals,2011,83932261.788,77467904.5,116024.25,6348333.038,337
+Chemicals,2012,80346091.378,74667680.5,133834.5,5544576.378,341
+Chemicals,2013,85406928.938,80956141.8,139932.25,4310854.888,347
+Chemicals,2014,89867912.8,84106473.4,231960.0,5529479.4,340
+Chemicals,2015,93302875.296,87762588.5,173522.25,5366764.546,341
+Chemicals,2016,99004543.606,93294312.27,145340.0,5564891.336,330
+Chemicals,2017,100882661.586,95738099.2,219447.25,4925115.136,332
+Chemicals,2018,105027635.428,99751058.4,223685.75,5052891.278,334
+Chemicals,2019,107237904.7192,101354866.6,182967.0,5700070.394,331
+Chemicals,2020,105035693.476,99174506.3,210448.0,5650739.176,331
+Chemicals,2021,109510395.062,103730207.4,244161.5,5536026.1620000005,340
+Chemicals,2022,112158443.94600001,106339798.2,255417.25,5563228.496,341
+Chemicals,2023,113059022.734,107442104.1,227549.0,5389369.634000001,341
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2012,2858253.856,2858173.3,36.75,43.806,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2013,2123868.34,2123766.0,41.25,61.09,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2014,1246360.4,1246360.4,0.0,0.0,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2015,2882904.742,2882744.3,47.5,112.942,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2016,3326537.68,3326353.8,54.25,129.63,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2017,3234852.898,3234418.9,128.25,305.748,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2018,4082335.7,4082335.7,0.0,0.0,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2019,3137752.8,3137752.8,0.0,0.0,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2020,3230507.3,3230507.3,0.0,0.0,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2021,3523412.1,3523412.1,0.0,0.0,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2022,3339679.4,3339679.4,0.0,0.0,1
+"Chemicals,Coal-based Liquid Fuel Supply,Suppliers of CO2",2023,2873469.1,2873469.1,0.0,0.0,1
+"Chemicals,Industrial Gas Suppliers",2010,8792988.036,754914.2000000001,1118.25,2204.306,12
+"Chemicals,Industrial Gas Suppliers",2011,10512944.435790349,787329.5,1156.5,1947.43,14
+"Chemicals,Industrial Gas Suppliers",2012,10227925.1442306,763931.6,1056.75,1816.906,15
+"Chemicals,Industrial Gas Suppliers",2013,8254464.1130842,777567.2000000001,1110.0,1845.216,15
+"Chemicals,Industrial Gas Suppliers",2014,5925248.6999111995,797341.2000000001,1122.5,1824.952,14
+"Chemicals,Industrial Gas Suppliers",2015,5374365.10467,743326.6,1134.75,1862.5,13
+"Chemicals,Industrial Gas Suppliers",2016,4727925.108569,719868.3,978.0,1581.486,13
+"Chemicals,Industrial Gas Suppliers",2017,4656640.592060001,720631.7,939.75,1511.456,13
+"Chemicals,Industrial Gas Suppliers",2018,4843267.490113,723569.2000000001,931.0,1494.768,14
+"Chemicals,Industrial Gas Suppliers",2019,5544893.700477,727716.6,894.25,1427.7179999999998,15
+"Chemicals,Industrial Gas Suppliers",2020,4352521.634039,668109.2,834.75,1335.338,15
+"Chemicals,Industrial Gas Suppliers",2021,3882855.920342,438382.0,280.0,386.208,15
+"Chemicals,Industrial Gas Suppliers",2022,4220367.621486,618532.3,294.0,357.004,14
+"Chemicals,Industrial Gas Suppliers",2023,3028964.283099,590581.8,280.0,338.826,15
+"Chemicals,Industrial Gas Suppliers,Minerals",2011,73653.198,51356.1,47.75,67.348,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2012,56198.97,35395.4,35.75,50.66,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2013,64664.1074,35131.5,20.75,44.7,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2014,66306.62896,35173.0,23.5,61.984,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2015,45416.31069,30613.9,18.25,41.124,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2016,37813.8354,30443.8,18.0,39.336,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2017,31524.9101,28925.7,18.75,47.382,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2018,62458.546132,31053.7,20.0,49.468,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2019,55977.455283,28598.2,18.0,44.998,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2020,48361.760885,32804.8,20.0,44.402,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2021,63760.311227,48316.1,27.75,54.534,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2022,24091.662,23309.9,10.5,13.112,1
+"Chemicals,Industrial Gas Suppliers,Minerals",2023,20824.978,18687.4,8.75,10.728,1
+"Chemicals,Industrial Gas Suppliers,Waste",2011,6837236.976620001,53596.399999999994,19557.25,35.164,2
+"Chemicals,Industrial Gas Suppliers,Waste",2012,4220603.6545,42229.5,18414.5,29.204,2
+"Chemicals,Industrial Gas Suppliers,Waste",2013,5140006.8263799995,47478.0,17345.5,31.886000000000003,2
+"Chemicals,Industrial Gas Suppliers,Waste",2014,5823878.87076,45591.5,16579.5,29.502,2
+"Chemicals,Industrial Gas Suppliers,Waste",2015,655440.682,9370.7,13298.5,8.642,1
+"Chemicals,Industrial Gas Suppliers,Waste",2016,50211.762,1836.1,12796.75,4.172,1
+"Chemicals,Industrial Gas Suppliers,Waste",2017,92554.834,1308.8,11801.0,3.278,1
+"Chemicals,Industrial Gas Suppliers,Waste",2018,54258.654,1490.7,11645.75,3.576,1
+"Chemicals,Industrial Gas Suppliers,Waste",2019,46742.132,1005.5,12877.25,2.384,1
+"Chemicals,Industrial Gas Suppliers,Waste",2020,33849.514,978.2,14546.5,2.384,1
+"Chemicals,Industrial Gas Suppliers,Waste",2021,50562.258,750.5,13699.0,1.788,1
+"Chemicals,Industrial Gas Suppliers,Waste",2022,50736.35,633.1,12901.5,1.49,1
+"Chemicals,Industrial Gas Suppliers,Waste",2023,53437.792,524.0,12149.75,1.192,1
+"Chemicals,Natural Gas and Natural Gas Liquids Suppliers",2010,47092.872,47044.1,22.25,26.522,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2012,4768345.722,4732194.6,26193.75,9957.372,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2013,4199729.614,4167553.3,23335.25,8841.064,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2014,4593399.588,4564009.1,19398.25,9992.238,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2015,4829511.088,4797824.4,21240.0,10446.688,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2016,4808428.038,4779379.8,18981.5,10066.738,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2017,4722108.682,4693682.2,17666.0,10760.482,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2018,4812576.458,4781504.5,20591.0,10480.958,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2019,4984461.77,4951941.8,21750.25,10769.72,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2020,5106325.56,5083903.9,11568.5,10853.16,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2021,5080309.618,5057759.8,11750.0,10799.818,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2022,4816773.628,4793413.4,12919.5,10440.728,1
+"Chemicals,Other,Petroleum Product Suppliers,Power Plants,Refineries",2023,5220291.312,5182527.6,26739.5,11024.212,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2011,5875022.57,5771167.9,101458.75,2395.92,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2012,5465157.96,5354735.4,108047.5,2375.06,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2013,5180089.832,5065231.6,112367.25,2490.982,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2014,5365638.564,5247251.6,115863.5,2523.464,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2015,3518549.868,3402677.9,114332.5,1539.468,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2016,3545479.46,3427350.3,115731.75,2397.41,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2017,3891696.372,3770026.9,119177.0,2492.472,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2018,4499375.848,4374642.6,121596.5,3136.748,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2019,4264561.496,4125439.3,136454.5,2667.696,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2020,4787778.618,4653204.0,132089.0,2485.618,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2021,5040393.864,4893587.2,144052.25,2754.414,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2022,4508992.886,4382004.2,124133.25,2855.436,1
+"Chemicals,Other,Petroleum and Natural Gas Systems,Waste",2023,5215286.612,5091056.9,121251.5,2978.212,1
+"Chemicals,Other,Power Plants",2022,1404707.406,1378734.0,23523.25,2450.156,1
+"Chemicals,Other,Power Plants",2023,1579719.28,1542993.7,33422.25,3303.33,1
+"Chemicals,Other,Refineries,Suppliers of CO2",2023,6118906.276,6092586.6,16944.0,9375.676,1
+"Chemicals,Petroleum Product Suppliers",2010,3967249.942,3951619.5,7136.25,8494.192,1
+"Chemicals,Petroleum Product Suppliers",2011,3802343.056,3787051.0,7202.25,8089.806,1
+"Chemicals,Petroleum Product Suppliers",2012,5335837.054,5309620.1,11436.75,14780.204000000002,3
+"Chemicals,Petroleum Product Suppliers",2013,2285350.05,2274884.0,3470.5,6995.549999999999,2
+"Chemicals,Petroleum Product Suppliers",2014,2373954.0,2364072.6,3347.75,6533.65,2
+"Chemicals,Petroleum Product Suppliers",2015,2553304.982,2542953.6,3226.5,7124.882,2
+"Chemicals,Petroleum Product Suppliers",2016,2556675.408,2545709.4,3696.0,7270.008000000001,2
+"Chemicals,Petroleum Product Suppliers",2017,2364631.808,2351141.5,6600.25,6890.058,2
+"Chemicals,Petroleum Product Suppliers",2018,2332973.7939999998,2322106.9,4421.75,6445.144,2
+"Chemicals,Petroleum Product Suppliers",2019,2367374.276,2355388.6,4919.5,7066.1759999999995,2
+"Chemicals,Petroleum Product Suppliers",2020,2352342.76,2341682.3000000003,3688.75,6971.71,2
+"Chemicals,Petroleum Product Suppliers",2021,2414697.7739999997,2404278.0,3733.25,6686.524,2
+"Chemicals,Petroleum Product Suppliers",2022,2314021.754,2302257.6,5246.0,6518.154,3
+"Chemicals,Petroleum Product Suppliers",2023,2504199.884,2492890.7,4348.5,6960.684,3
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2010,10466782.684,10404003.3,41060.25,21719.134,2
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2011,10995846.822,10935574.2,38320.75,21951.872000000003,2
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2012,5933102.416,5903449.7,17824.5,11828.216,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2013,6414722.228,6386159.1,13786.5,14776.628,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2014,5332974.708,5309159.2,13677.25,10138.258,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2015,5686561.638,5660497.7,14909.5,11154.438,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2016,5940916.044,5913437.8,15460.5,12017.744,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2017,5787700.12,5756463.7,19528.0,11708.42,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2018,5580514.16,5550322.0,18929.25,11262.91,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2019,5917240.992,5869635.6,35900.25,11705.142,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2020,5969593.13,5937475.7,20298.75,11818.68,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2021,6137588.974,6108591.1,16850.5,12147.374,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2022,5704791.392,5677143.7,16248.0,11399.692,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries",2023,5979836.674,5948714.2,19772.25,11350.224,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2012,4026475.482,4011464.0,5219.5,9791.982,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2013,3703573.302,3691127.2,4907.0,7539.102,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2014,3904282.612,3893009.9,4159.75,7112.962,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2015,4184267.178,4170964.4,4732.0,8570.778,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2016,4182946.522,4167326.8,5938.0,9681.722,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2017,3574815.76,3563965.2,4005.5,6845.06,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2018,4022353.834,4009586.0,4749.25,8018.584,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2019,3651715.336,3640271.0,4513.75,6930.586,1
+"Chemicals,Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2020,3508262.75,3498314.7,3883.75,6064.3,1
+"Chemicals,Petroleum Product Suppliers,Refineries",2010,49952637.12470801,49613721.87470801,213196.5,125718.75,23
+"Chemicals,Petroleum Product Suppliers,Refineries",2011,45820558.266,45482737.765999995,222122.0,115698.5,26
+"Chemicals,Petroleum Product Suppliers,Refineries",2012,51401647.167,50993153.463,268486.45,140007.25400000002,37
+"Chemicals,Petroleum Product Suppliers,Refineries",2013,58400639.186000004,57961317.459,277277.075,162044.652,37
+"Chemicals,Petroleum Product Suppliers,Refineries",2014,56085919.864,55656243.199,277620.675,152055.99,37
+"Chemicals,Petroleum Product Suppliers,Refineries",2015,60269348.866,59788108.3,308544.5,172696.066,39
+"Chemicals,Petroleum Product Suppliers,Refineries",2016,63007576.48,62497668.300000004,325845.5,184062.68,40
+"Chemicals,Petroleum Product Suppliers,Refineries",2017,62304301.404,61762257.8,362938.75,179104.854,40
+"Chemicals,Petroleum Product Suppliers,Refineries",2018,63996999.398,63486740.3,328039.25,182219.848,40
+"Chemicals,Petroleum Product Suppliers,Refineries",2019,63192009.562,62613209.4,390793.75,188006.412,40
+"Chemicals,Petroleum Product Suppliers,Refineries",2020,61177036.874000005,60708232.0,306167.5,162637.374,41
+"Chemicals,Petroleum Product Suppliers,Refineries",2021,58687456.02,58249634.4,281836.5,155985.12,38
+"Chemicals,Petroleum Product Suppliers,Refineries",2022,55896846.942,55511575.7,236314.75,148956.492,37
+"Chemicals,Petroleum Product Suppliers,Refineries",2023,55374700.344000004,55001311.7,228224.5,145164.144,37
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2010,16506487.367,16430905.186999999,45555.7,30026.479999999996,6
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2011,18970509.514,18892775.541,48917.075,28816.898,7
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2012,19272750.583,19175426.323,59584.05,37740.21,7
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2013,14928782.115,14850692.684999999,48122.55,29966.88,6
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2014,14019305.457,13951219.375,35035.2,33050.882,6
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2015,8679781.174,8635321.6,27499.5,16960.074,5
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2016,9855033.469999999,9806375.6,29492.0,19165.870000000003,5
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2017,9610582.058,9565805.899999999,26986.75,17789.408,5
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2018,10216140.724,10168363.1,28888.0,18889.624,5
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2019,9561838.69,9514318.3,29922.0,17598.39,5
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2020,8597307.18,8561113.1,20300.25,15893.83,4
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2021,8652575.132,8614735.5,21812.0,16027.632,4
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2022,6141320.304,6113066.2,16401.75,11852.354000000001,3
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2",2023,6124651.864,6095119.4,17286.75,12245.714,3
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2011,3399126.234,3372443.7,18284.0,8398.534,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2012,3818622.616,3795814.2,14288.0,8520.416,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2013,4122674.758,4098898.2,14279.0,9497.558,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2014,4355584.046,4329818.1,16244.25,9521.696,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2015,4438918.786,4404047.0,25140.0,9731.786,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2016,4490524.828,4465574.2,15910.5,9040.128,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2017,4275849.352,4250975.6,16016.0,8857.752,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2018,4328125.542,4300210.8,18422.25,9492.492,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2019,4359504.494,4331936.5,18195.0,9372.994,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2020,3590054.962,3565948.4,16598.75,7507.812,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2021,3944590.218,3920032.1,16149.75,8408.368,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2022,3935346.646,3910280.3,17355.0,7711.346,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Suppliers of CO2,Waste",2023,4197007.536,4172563.6,16075.5,8368.436,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2011,2508495.158,2453343.9,50786.75,4364.508,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2012,2068728.924,2021745.7,43530.0,3453.224,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2013,2267593.414,2217399.5,46545.5,3648.414,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2014,2461187.61,2413468.9,43578.0,4140.71,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2015,2410765.53,2370962.9,35389.25,4413.38,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2016,2295226.808,2252850.8,37974.25,4401.758,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2017,2173130.964,2130439.1,38477.25,4214.614,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2018,2056965.416,2014640.5,38274.5,4050.416,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2019,2300332.194,2250954.4,44892.0,4485.794,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2020,1975631.638,1933926.2,39118.5,2586.938,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2021,1489284.038,1441408.3,45259.0,2616.738,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2022,1755896.69,1710135.1,43018.5,2743.09,1
+"Chemicals,Petroleum Product Suppliers,Refineries,Waste",2023,1367496.742,1323216.1,42223.25,2057.392,1
+"Chemicals,Petroleum and Natural Gas Systems,Refineries",2020,437694.67,434568.9,2197.5,928.27,1
+"Chemicals,Petroleum and Natural Gas Systems,Refineries",2021,489039.236,485816.4,2215.0,1007.836,1
+"Chemicals,Petroleum and Natural Gas Systems,Refineries",2022,589876.286,586196.2,2411.5,1268.586,1
+"Chemicals,Petroleum and Natural Gas Systems,Refineries",2023,545281.144,541782.9,2357.5,1140.744,1
+"Chemicals,Power Plants",2010,5039984.15,5030283.5,4657.0,5043.65,2
+"Chemicals,Power Plants",2011,2956961.404,2953963.7,1366.75,1630.954,1
+"Chemicals,Power Plants",2012,2991199.674,2988159.9,1382.0,1657.774,1
+"Chemicals,Power Plants",2013,3053841.84,3050713.3,1421.0,1707.54,1
+"Chemicals,Power Plants",2014,2843694.924,2840750.4,1324.0,1620.524,1
+"Chemicals,Power Plants",2015,2787824.866,2784973.7,1296.5,1554.666,1
+"Chemicals,Power Plants",2016,2673863.008,2671131.7,1242.5,1488.808,1
+"Chemicals,Power Plants",2017,2894510.248,2891554.0,1346.75,1609.498,1
+"Chemicals,Power Plants",2018,2962653.762,2959621.9,1379.75,1652.112,1
+"Chemicals,Power Plants",2019,3307323.432,3303940.1,1540.5,1842.832,1
+"Chemicals,Power Plants",2020,2708140.748,2705365.6,1262.5,1512.648,1
+"Chemicals,Power Plants",2021,2779109.388,2776262.0,1296.0,1551.388,1
+"Chemicals,Power Plants",2022,3036845.354,3033731.1,1416.25,1698.004,1
+"Chemicals,Power Plants",2023,2689617.184,2686854.4,1255.5,1507.284,1
+"Chemicals,Power Plants,Refineries,Suppliers of CO2",2011,2255247.152,2246044.3,3861.5,5341.352,1
+"Chemicals,Power Plants,Suppliers of CO2",2017,2029608.116,2010918.1,6906.5,11783.516,1
+"Chemicals,Power Plants,Waste",2011,2115121.498,2102967.8,7966.5,4187.198,1
+"Chemicals,Power Plants,Waste",2012,2138664.086,2127028.6,7744.5,3890.986,1
+"Chemicals,Power Plants,Waste",2013,2230375.252,2217751.1,8072.5,4551.652,1
+"Chemicals,Power Plants,Waste",2014,2240656.182,2225896.7,10704.0,4055.482,1
+"Chemicals,Power Plants,Waste",2015,2356427.806,2340595.6,11378.0,4454.206,1
+"Chemicals,Power Plants,Waste",2016,2402165.976,2388186.0,9752.25,4227.726,1
+"Chemicals,Power Plants,Waste",2017,2159693.064,2147167.6,8251.25,4274.214,1
+"Chemicals,Power Plants,Waste",2018,2090738.486,2079654.8,7632.25,3451.436,1
+"Chemicals,Power Plants,Waste",2019,2171412.544,2158224.6,9804.75,3383.194,1
+"Chemicals,Power Plants,Waste",2020,2228592.126,2216480.0,8093.0,4019.126,1
+"Chemicals,Power Plants,Waste",2021,2156353.486,2142753.1,10067.0,3533.386,1
+"Chemicals,Power Plants,Waste",2022,2148910.122399125,2132088.1,13634.316399125,3187.706,1
+"Chemicals,Power Plants,Waste",2023,2220077.858,2208828.6,8970.75,2278.508,1
+"Chemicals,Refineries",2010,15297659.411,15186339.004999999,77595.15,33725.256,20
+"Chemicals,Refineries",2011,13438010.038,13330740.31,79098.0,28171.728,15
+"Chemicals,Refineries",2012,13149440.962,13058676.399999999,61987.0,28777.562,6
+"Chemicals,Refineries",2013,6081215.91,6042639.6,25883.0,12693.310000000001,5
+"Chemicals,Refineries",2014,4646037.432,4618576.6,18615.0,8845.832,3
+"Chemicals,Refineries",2015,5331481.846,5304477.6,16819.5,10184.746000000001,4
+"Chemicals,Refineries",2016,5911542.994,5883479.9,17140.5,10922.594000000001,5
+"Chemicals,Refineries",2017,6280957.276,6254002.4,16864.0,10090.876,5
+"Chemicals,Refineries",2018,6203823.002,6173915.2,19604.75,10303.052,5
+"Chemicals,Refineries",2019,5888237.582,5860029.899999999,18780.75,9426.932,5
+"Chemicals,Refineries",2020,9362135.884,9326451.8,20662.5,15021.584,5
+"Chemicals,Refineries",2021,9621597.914,9584620.0,21707.5,15270.414,6
+"Chemicals,Refineries",2022,9387913.916,9351349.7,21756.0,14808.216,5
+"Chemicals,Refineries",2023,9557764.75,9520518.200000001,22018.75,15227.8,5
+"Chemicals,Refineries,Suppliers of CO2",2010,21560968.12998592,21471542.292985924,46277.225,43148.612,7
+"Chemicals,Refineries,Suppliers of CO2",2011,16006877.916,15946628.9,30548.25,29700.766,6
+"Chemicals,Refineries,Suppliers of CO2",2012,11815733.72,11779864.1,15176.5,20693.120000000003,5
+"Chemicals,Refineries,Suppliers of CO2",2013,16540091.695999999,16482174.600000001,30463.25,27453.845999999998,6
+"Chemicals,Refineries,Suppliers of CO2",2014,18607905.052,18543472.0,32897.5,31535.552,6
+"Chemicals,Refineries,Suppliers of CO2",2015,18120839.104,18058007.4,32071.25,30760.454,5
+"Chemicals,Refineries,Suppliers of CO2",2016,18553578.754,18489571.9,32300.25,31706.604,5
+"Chemicals,Refineries,Suppliers of CO2",2017,18674867.134,18611444.8,31675.5,31746.834000000003,5
+"Chemicals,Refineries,Suppliers of CO2",2018,18715705.81,18646697.7,37324.75,31683.36,5
+"Chemicals,Refineries,Suppliers of CO2",2019,17910975.82,17840838.7,39572.75,30564.37,5
+"Chemicals,Refineries,Suppliers of CO2",2020,11180813.012,11131422.700000001,30297.75,19092.561999999998,4
+"Chemicals,Refineries,Suppliers of CO2",2021,11068150.272,11012227.9,36987.75,18934.622,4
+"Chemicals,Refineries,Suppliers of CO2",2022,11202459.23,11146299.4,36727.25,19432.579999999998,3
+"Chemicals,Refineries,Suppliers of CO2",2023,5076277.578,5052959.1,14479.5,8838.978,2
+"Chemicals,Refineries,Waste",2011,3845953.572,3802090.4,33652.5,10210.672,1
+"Chemicals,Refineries,Waste",2012,3955346.78,3912066.2,33048.75,10231.83,1
+"Chemicals,Refineries,Waste",2013,3826765.926,3783124.7,32075.25,11565.976,1
+"Chemicals,Refineries,Waste",2014,3992894.66,3948841.1,31583.75,12469.81,1
+"Chemicals,Refineries,Waste",2015,4913159.378,4871166.8,31082.5,10910.078,1
+"Chemicals,Refineries,Waste",2016,4747729.784,4702830.7,31144.0,13755.084,1
+"Chemicals,Refineries,Waste",2017,4956739.218,4910126.6,32765.75,13846.868,1
+"Chemicals,Refineries,Waste",2018,5082348.102,5031215.8,36471.0,14661.302,1
+"Chemicals,Refineries,Waste",2019,4854785.71,4800971.7,39474.25,14339.76,1
+"Chemicals,Refineries,Waste",2020,4356426.418,4298250.7,48031.5,10144.218,1
+"Chemicals,Refineries,Waste",2021,4627235.23,4566620.7,50040.0,10574.53,1
+"Chemicals,Refineries,Waste",2022,4636770.178,4579315.7,46753.0,10701.478,1
+"Chemicals,Refineries,Waste",2023,4784595.208,4756105.9,17427.25,11062.058,1
+"Chemicals,Suppliers of CO2",2010,28307903.024,23830518.0,5354.75,4472030.274,29
+"Chemicals,Suppliers of CO2",2011,28986645.814,24372745.4,5481.5,4608418.914,29
+"Chemicals,Suppliers of CO2",2012,28796250.544,23572156.9,5777.5,5218316.144,29
+"Chemicals,Suppliers of CO2",2013,31896823.424,25440672.6,15167.5,6440983.324,31
+"Chemicals,Suppliers of CO2",2014,32283668.562,25805260.7,15408.0,6462999.862,32
+"Chemicals,Suppliers of CO2",2015,32333591.189999998,25363445.7,7225.0,6962920.49,32
+"Chemicals,Suppliers of CO2",2016,25282691.43,20571870.8,5606.25,4705214.38,32
+"Chemicals,Suppliers of CO2",2017,27781495.518,22905418.1,9308.0,4866769.418,31
+"Chemicals,Suppliers of CO2",2018,28585804.254,23829914.8,8534.0,4747355.454,29
+"Chemicals,Suppliers of CO2",2019,27380813.167999998,23151697.1,5229.5,4223886.568,28
+"Chemicals,Suppliers of CO2",2020,28047650.686,23917502.2,5141.0,4125007.486,29
+"Chemicals,Suppliers of CO2",2021,26996513.454,23197543.8,6212.5,3792757.154,29
+"Chemicals,Suppliers of CO2",2022,29642779.294,25394980.0,4934.0,4242865.294,32
+"Chemicals,Suppliers of CO2",2023,30280418.744,26034777.7,6128.25,4239512.794,32
+"Chemicals,Waste",2011,21370044.472000003,10595209.8,491111.25,10283723.422,11
+"Chemicals,Waste",2012,15805293.322,10117136.0,482599.75,5205557.572,12
+"Chemicals,Waste",2013,14336207.866,9930528.7,356241.5,4049437.666,11
+"Chemicals,Waste",2014,14776622.758000001,9874335.7,353951.5,4548335.557999999,11
+"Chemicals,Waste",2015,17911962.014,9613826.399999999,368644.0,3670776.814,12
+"Chemicals,Waste",2016,19650351.62,9309204.2,389833.0,7158761.62,12
+"Chemicals,Waste",2017,22008771.81,9073905.3,395999.5,7382665.41,12
+"Chemicals,Waste",2018,22831439.138,8694926.9,391502.0,10468719.438,12
+"Chemicals,Waste",2019,17577605.118,7987459.6,383674.75,5498700.767999999,12
+"Chemicals,Waste",2020,18632350.68,7942478.8,368274.5,8225458.580000001,11
+"Chemicals,Waste",2021,18685718.688,8283030.6,370175.0,7368424.288,11
+"Chemicals,Waste",2022,12800664.858254751,7802467.0,358660.72425475,2460074.334,11
+"Chemicals,Waste",2023,10069800.862,8017533.8,351219.75,1243179.7119999998,10
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2011,23828.28,0.0,0.0,0.0,1
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2012,73177.536,1292.6,0.5,0.596,2
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2013,52091.276,1312.3,0.5,0.596,2
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2014,73737.68,0.2,0.0,0.0,2
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2015,56539.64,0.2,0.0,0.0,2
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2016,55602.384000000005,1455.3,0.75,0.894,2
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2017,75641.52799999999,626.7,0.25,0.298,2
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2018,109356.168,750.1,0.25,0.298,2
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2019,38044.08,0.0,0.0,0.0,1
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2020,30481.32,0.0,0.0,0.0,1
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2021,26010.3996,0.0,0.0,0.0,1
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2022,34293.5256,0.0,0.0,0.0,1
+"Import and Export of Equipment Containing Fluorintaed GHGs,Industrial Gas Suppliers,Other",2023,54655.8636,0.0,0.0,0.0,1
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2011,366175.044,86271.5,40.5,48.276,5
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2012,179679.012,83723.0,39.75,48.574,4
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2013,215827.52000000002,147083.9,70.0,84.334,6
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2014,220095.479,152927.19999999998,72.75,87.612,6
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2015,214013.972,145801.8,68.75,83.142,6
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2016,188057.475,138305.5,65.25,78.374,6
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2017,188074.01,123639.5,58.5,70.328,6
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2018,180982.02000000002,133359.5,63.25,75.99000000000001,6
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2019,259750.28,137940.8,65.25,78.672,7
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2020,341897.639,122650.8,58.25,70.626,7
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2021,287294.30134,126641.8,59.75,71.818,7
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2022,227682.84029,133224.4,63.25,75.692,7
+"Import and Export of Equipment Containing Fluorintaed GHGs,Other",2023,155400.6808,123798.0,59.0,71.222,7
+"Industrial Gas Suppliers,Minerals",2010,44522.608,44423.2,41.0,58.408,1
+"Industrial Gas Suppliers,Other",2010,106709.352,106513.0,70.0,126.352,3
+"Industrial Gas Suppliers,Other",2011,19201.028,19181.3,9.0,10.728,1
+"Industrial Gas Suppliers,Other",2012,17111.936,17094.4,8.0,9.536,1
+"Industrial Gas Suppliers,Other",2013,14987.244,14971.9,7.0,8.344,1
+"Industrial Gas Suppliers,Other",2014,14631.096,14616.3,6.75,8.046,1
+"Industrial Gas Suppliers,Other",2015,14522.144,14506.8,7.0,8.344,1
+"Industrial Gas Suppliers,Other",2016,15489.892,15474.0,7.25,8.642,1
+"Industrial Gas Suppliers,Other",2017,12399.952,12386.8,6.0,7.152,1
+"Industrial Gas Suppliers,Other",2018,12234.504,12221.9,5.75,6.854,1
+"Industrial Gas Suppliers,Other",2019,11388.008,11376.5,5.25,6.258,1
+"Industrial Gas Suppliers,Other",2020,11121.508,11110.0,5.25,6.258,1
+"Industrial Gas Suppliers,Other",2021,402232.512,393973.9,534.75,7723.862,2
+"Industrial Gas Suppliers,Other",2022,10185.412,10175.0,4.75,5.662,1
+"Industrial Gas Suppliers,Other",2023,175899.67200000002,175798.4,37.5,63.772,3
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2011,423364.298,409427.4,13020.25,916.648,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2012,372405.692,362427.0,9232.5,746.192,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2013,293156.54,287599.8,4884.75,671.99,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2014,94833.38,94169.4,623.75,40.23,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2015,86528.414,85665.7,723.25,139.464,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2016,74533.626,74467.5,32.75,33.376,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2017,78940.278,78872.2,35.0,33.078,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2018,89221.838,89133.5,56.75,31.588,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2019,62200.56,62104.5,67.75,28.31,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2020,58953.764,58830.3,95.75,27.714,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2021,68977.956,68728.8,220.25,28.906,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2022,61478.86,61249.8,200.75,28.31,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2023,74649.514,74382.1,232.25,35.164,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2011,100119.382,77363.4,22723.5,32.482,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2012,96854.63,81398.1,15423.75,32.78,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2013,109767.434,91813.8,17914.0,39.634,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2014,98909.024,83465.4,15402.5,41.124,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2015,83844.436,70362.1,13443.0,39.336,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2016,89863.712,76666.3,13154.5,42.912,1
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2017,235167.032,210844.7,24230.25,92.082,2
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2018,220163.48044324378,199847.45244363148,20232.5085031989,83.5194964133807,2
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2019,226418.87615038402,207516.64288183372,18814.198202540152,88.03506601015542,2
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2020,252937.4356784457,229437.1489751003,23396.5337287595,103.752974585904,2
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2021,166034.71621426073,140868.7294551622,25087.446391298025,78.54036780050848,2
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2022,148620.31259282524,134488.4608686855,14056.5133147761,75.33840936365112,2
+"Injection of CO2,Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2023,147718.88585065177,139126.0259433226,8515.5213228711,77.338584458072,2
+"Injection of CO2,Other,Suppliers of CO2",2022,82754.588,82669.1,39.0,46.488,1
+"Injection of CO2,Other,Suppliers of CO2",2023,86232.276,86143.5,40.5,48.276,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2011,4710939.104,4662336.9,25850.5,22751.704,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2012,4714596.31,4666597.7,25888.5,22110.11,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2013,4720599.394,4672473.1,25797.75,22328.544,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2014,4741829.732,4695430.8,24009.0,22389.932,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2015,4507308.324,4462580.1,23469.5,21258.724,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2017,4490464.192,4452500.8,16647.75,21315.642,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2018,4368466.936,4327857.6,19933.5,20675.836,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2019,4402189.878,4362843.9,18549.75,20796.228,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2020,4465258.782,4428881.1,16409.0,19968.682,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2021,4207231.08,4171929.5,15794.5,19507.08,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2022,4135002.808,4100894.5,15410.0,18698.308,1
+"Injection of CO2,Other,Suppliers of CO2,Waste",2023,3819217.302,3787209.1,14612.75,17395.452,1
+"Injection of CO2,Petroleum and Natural Gas Systems",2011,786668.382,749817.2999999999,36572.75,278.332,6
+"Injection of CO2,Petroleum and Natural Gas Systems",2012,526818.004,499393.6,27201.5,222.904,6
+"Injection of CO2,Petroleum and Natural Gas Systems",2013,501197.782,465253.19999999995,35554.5,390.082,7
+"Injection of CO2,Petroleum and Natural Gas Systems",2014,824163.258,734291.6,89254.5,617.1579999999999,10
+"Injection of CO2,Petroleum and Natural Gas Systems",2015,778273.176,689806.1,88128.25,338.826,9
+"Injection of CO2,Petroleum and Natural Gas Systems",2016,894308.6140000001,809569.1,84384.0,355.514,7
+"Injection of CO2,Petroleum and Natural Gas Systems",2017,610888.622,566179.6,44459.0,250.022,7
+"Injection of CO2,Petroleum and Natural Gas Systems",2018,532378.346,493907.1,38232.25,238.996,7
+"Injection of CO2,Petroleum and Natural Gas Systems",2019,539684.7683135256,511519.63249615085,27931.535611431398,233.60020594332212,7
+"Injection of CO2,Petroleum and Natural Gas Systems",2020,605946.8743310315,576616.7623165529,29095.437405400502,234.67460907800367,8
+"Injection of CO2,Petroleum and Natural Gas Systems",2021,536445.1397894511,508419.0472846662,27821.523746711613,204.5687580733655,7
+"Injection of CO2,Petroleum and Natural Gas Systems",2022,370473.74738507526,340582.2054160494,29726.66388194682,164.87808707902795,6
+"Injection of CO2,Petroleum and Natural Gas Systems",2023,431547.06308941916,408651.8282896827,22692.34142656975,202.89337316668053,7
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2011,4942386.181,4840124.1899999995,98554.275,3707.7160000000003,6
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2012,5294112.2469999995,5218388.319999999,75016.475,707.452,7
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2013,3916442.775,3818610.3890000004,97130.0,702.386,9
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2014,3799600.6950000003,3647061.7660000003,151891.375,647.554,8
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2015,4038150.54057,3945591.29444,91763.19575,796.05038,11
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2016,3513879.906,3450898.6999999997,61693.25,1287.956,12
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2017,4320609.378,4261294.3,58611.5,703.578,9
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2018,3798438.6227506236,3745456.57186592,52249.70870400607,732.3421806971204,8
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2019,3523098.35886995,3468386.0813487233,53924.64306629603,787.6344549303515,10
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2020,4810241.8783559445,4721978.162307158,87333.21839533103,930.4976534553253,10
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2021,5177161.172502412,5088216.893106176,87622.58557427226,1321.6938219637857,11
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2022,5004934.235250026,4923586.873520594,80083.5723182843,1263.7894111472945,13
+"Injection of CO2,Petroleum and Natural Gas Systems,Suppliers of CO2",2023,5141225.939934966,5082673.558308223,57327.821716679806,1224.5599100628706,14
+"Injection of CO2,Power Plants,Suppliers of CO2",2011,8332836.462,8267643.8,23839.5,41353.162,1
+"Injection of CO2,Power Plants,Suppliers of CO2",2012,7977648.822,7915139.7,22863.5,39645.622,1
+"Injection of CO2,Power Plants,Suppliers of CO2",2013,5371447.48,5329482.9,15342.75,26621.83,1
+"Injection of CO2,Power Plants,Suppliers of CO2",2014,7947522.418,7885124.5,22818.75,39579.168,1
+"Injection of CO2,Power Plants,Suppliers of CO2",2015,7363469.184,7304536.9,21553.25,37379.034,1
+"Injection of CO2,Power Plants,Suppliers of CO2",2016,7525830.29,7465607.9,22024.75,38197.64,1
+"Injection of CO2,Power Plants,Suppliers of CO2",2017,6788868.074,6734614.9,19837.75,34415.424,1
+"Injection of CO2,Power Plants,Suppliers of CO2",2018,5494842.37,5450935.3,16054.5,27852.57,1
+"Injection of CO2,Power Plants,Suppliers of CO2",2019,7739445.616,7677514.9,22649.25,39281.466,1
+Metals,2010,90791119.08,88979875.1,34365.0,30619.5,269
+Metals,2011,82642656.8273,78969306.8522,29026.25,28774.88,278
+Metals,2012,78089522.3356,75241396.1476,30006.25,26223.702,281
+Metals,2013,77111681.686,74461237.25,29213.75,26437.07,283
+Metals,2014,77963183.512,75775828.182,30792.0,27857.04,286
+Metals,2015,69725850.4125,67794949.971,30849.75,28385.989999999998,283
+Metals,2016,69328748.081,68000728.65,28081.0,25539.792,285
+Metals,2017,70283816.6132,69157303.315,35518.0,26132.216,279
+Metals,2018,72257937.615,70757373.2378,33212.75,25138.982,287
+Metals,2019,69411134.995,68019879.789,29253.25,22994.872,281
+Metals,2020,59204369.766,57605807.005,24565.5,22466.816,277
+Metals,2021,62809119.263000004,61139957.64,25035.75,24518.248,281
+Metals,2022,57413494.490796,56037864.759546,24464.25,19235.304,279
+Metals,2023,59170375.893,57991681.445,23256.75,18908.994,278
+"Metals,Minerals",2010,7986838.402,7985396.2,325.0,1117.202,1
+"Metals,Minerals",2011,7303151.336,7301789.5,354.0,1007.836,1
+"Metals,Minerals",2012,6783331.464,6782056.5,316.0,958.964,1
+"Metals,Minerals",2013,7387406.708,7386309.6,360.75,736.358,1
+"Metals,Minerals",2014,5421539.142,5420382.0,329.0,828.142,1
+"Metals,Minerals",2015,6218607.986,6217246.9,316.0,1045.086,1
+"Metals,Minerals",2016,6893399.942,6892154.2,320.75,924.992,1
+"Metals,Minerals",2017,6972176.484,6970944.7,320.5,911.284,1
+"Metals,Minerals",2018,6360091.484,6358867.9,319.75,903.834,1
+"Metals,Minerals",2019,6200941.828,6197625.8,370.0,2946.028,1
+"Metals,Minerals",2020,6173199.148,6172266.7,246.75,685.698,1
+"Metals,Minerals",2021,5616103.79,5615215.3,253.75,634.74,1
+"Metals,Minerals",2022,5598566.494,5597557.1,226.25,783.144,1
+"Metals,Minerals",2023,5783020.53,5781840.1,238.75,941.68,1
+"Metals,Power Plants",2010,6766675.916,6603280.7,18205.75,31533.466,1
+"Metals,Power Plants",2011,6875397.982,6709118.9,18182.0,31486.382,1
+"Metals,Power Plants",2012,6528200.042,6398862.3,17233.75,29830.992,1
+"Metals,Power Plants",2013,6608802.944,6486272.3,17412.5,30136.144,1
+"Metals,Power Plants",2014,6777676.776,6561779.7,16171.75,27997.398,1
+"Metals,Power Plants",2015,6827547.906,6628664.2,17756.5,30743.468,1
+"Metals,Power Plants",2016,4457285.265,4383381.4,12238.0,21166.642,1
+"Metals,Power Plants",2017,3467216.613,3425242.5,9693.0,16752.368,1
+"Metals,Power Plants",2018,5379019.292,5231861.9,14682.5,25406.586,1
+"Metals,Power Plants",2019,5235337.915,5085427.2,13822.0,23918.374,1
+"Metals,Power Plants",2020,5963440.226,5797179.8,15922.5,27557.848,1
+"Metals,Power Plants",2021,5724447.309,5558091.5,15308.25,26491.604,1
+"Metals,Power Plants",2022,5466627.45,5223496.9,14851.25,25741.836,1
+"Metals,Power Plants",2023,4867518.536,4784116.4,1247.25,23509.22,1
+"Metals,Waste",2011,22207850.006,20387580.0,612657.25,4446.755999999999,19
+"Metals,Waste",2012,22140169.198,20148734.1,637787.25,10810.248,18
+"Metals,Waste",2013,22625230.198,20612013.4,619207.0,4541.818,18
+"Metals,Waste",2014,21254753.269,19578430.4,627052.0,4380.004,18
+"Metals,Waste",2015,15536771.225,14131535.1,614058.0,3527.724,18
+"Metals,Waste",2016,12532374.874,11027252.8,611845.25,2514.226,17
+"Metals,Waste",2017,12168984.44,10871587.200000001,566324.75,2546.112,17
+"Metals,Waste",2018,13877505.193,12528344.5,565272.5,2758.5860000000002,17
+"Metals,Waste",2019,14615880.466000002,13349593.6,579538.75,2916.228,17
+"Metals,Waste",2020,12804720.507,11805360.5,576433.75,2778.254,17
+"Metals,Waste",2021,14234631.684,13651706.799999999,579793.5,3131.384,17
+"Metals,Waste",2022,14057700.672,13491841.600000001,562748.25,3110.822,15
+"Metals,Waste",2023,14317825.110000001,13757529.8,557100.75,3194.56,15
+Minerals,2010,100973274.174,100532100.5,119970.5,321203.174,357
+Minerals,2011,100504257.468,100202675.8,110804.75,190776.918,355
+Minerals,2012,104890897.49,104570322.0,114618.75,205956.74,357
+Minerals,2013,108396078.262,108085654.0,114535.75,195888.512,366
+Minerals,2014,113971187.298,113552158.3,125901.0,293127.998,369
+Minerals,2015,112486968.148,112173778.7,114967.0,198222.448,369
+Minerals,2016,108240490.23,107943186.3,110335.75,186968.18,362
+Minerals,2017,111598450.75400001,111293502.6,111062.5,193885.654,365
+Minerals,2018,113317488.064,113033713.2,104895.0,178879.864,374
+Minerals,2019,112090790.17999999,111808121.2,104536.5,178132.48,372
+Minerals,2020,107059159.884,106813145.9,90396.0,155617.984,370
+Minerals,2021,111764484.626,111504939.4,95291.5,164253.726,365
+Minerals,2022,111969384.028,111686976.6,116738.5,165668.928,371
+Minerals,2023,106790998.19084582,106515685.31061046,123492.583111271,151820.29712408796,374
+"Minerals,Waste",2011,3019947.276,2413687.2,596646.0,9614.076,10
+"Minerals,Waste",2012,3206515.07,2600935.9,595770.5,9808.67,10
+"Minerals,Waste",2013,3399121.06,2778717.8000000003,610123.75,10279.51,10
+"Minerals,Waste",2014,3356801.6,2720329.9,626332.25,10139.45,10
+"Minerals,Waste",2015,2926835.846,2269256.5,648899.5,8679.846,10
+"Minerals,Waste",2016,2943405.366,2278812.1,656199.5,8393.766,10
+"Minerals,Waste",2017,3148332.342,2473284.4,666218.5,8829.442,10
+"Minerals,Waste",2018,3135681.63,2448907.8,677734.0,9039.83,10
+"Minerals,Waste",2019,3117763.17,2413308.9,695480.0,8974.269999999999,10
+"Minerals,Waste",2020,2690586.3880000003,1988529.0,694844.0,7213.388,9
+"Minerals,Waste",2021,2893469.34,2195324.8,690216.25,7928.29,9
+"Minerals,Waste",2022,3014313.568,2539304.8,465393.5,9615.268,9
+"Minerals,Waste",2023,2810296.802,2421027.5,379972.0,9297.302,9
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2010,23575.464000000004,23510.8,29.5,35.164,6
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2011,86055.47200000001,85966.09999999999,40.5,48.872,3
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2012,3420.5879999999997,3417.2999999999997,1.5,1.788,2
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2013,2563.64,2560.9,1.25,1.49,2
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2014,280.748,280.2,0.25,0.298,1
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2015,48.4,48.4,0.0,0.0,1
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2016,295.048,294.5,0.25,0.298,1
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2017,358.148,357.6,0.25,0.298,1
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2018,306.848,306.3,0.25,0.298,1
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2019,189.2,189.2,0.0,0.0,1
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2020,280.448,279.9,0.25,0.298,1
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2021,3.2,3.2,0.0,0.0,1
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2022,1142.396,1141.3,0.5,0.596,1
+"Natural Gas and Natural Gas Liquids Suppliers,Other",2023,2.1,2.1,0.0,0.0,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2012,248504.588,243105.2,5263.5,135.888,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2013,255894.302,250293.8,5459.25,141.252,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2010,10271879.44,10260070.598,4789.75,7019.092,77
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2011,13055806.013,12364451.889,670155.0,21199.124,94
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2012,13167345.143,12238587.935,918067.65,10689.557999999999,94
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2013,13264352.597,12593918.927,663500.7,6932.97,96
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2014,14911310.746,14135145.426,768137.2,8028.12,104
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2015,14615954.11201,14030301.38708,576511.67625,9141.04868,104
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2016,13382456.644,12822797.7,552476.25,7182.6939999999995,103
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2017,12905647.882,12292178.2,606575.75,6893.932,101
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2018,11667633.231874477,11096827.147511331,564649.4131690515,6156.671194095326,99
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2019,12322328.43503889,11877205.711969959,438255.8314742557,6866.891594676985,97
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2020,12268986.840081897,11893540.426526595,368828.06371376594,6618.3498415345875,97
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2021,11882138.20287223,11554767.468316711,321031.78940590384,6338.945149613929,92
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2022,12121883.587112576,11734985.758598072,377445.16157328687,9452.666941216054,89
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems",2023,12183974.508824673,11678347.397254582,499334.8148690048,6292.296701085254,88
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2011,3744.488,3741.2,1.5,1.788,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2013,1952169.788,1947014.5,4073.25,1082.038,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2014,2025063.398,2021121.9,2928.0,1013.498,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2015,1884048.46,1879617.1,3442.0,989.36,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2016,1473127.378,1468559.0,3797.75,770.628,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2017,1512395.782,1508978.1,2632.75,784.932,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2018,1436339.492,1432287.7,3320.5,731.292,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2019,1523196.046,1517269.4,5151.25,775.396,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2020,1595870.954,1590446.8,4605.25,818.904,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2021,1473037.4,1466886.4,5406.0,745.0,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2022,1336167.452,1330425.1,5020.0,722.352,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Power Plants",2023,1329606.782,1324991.5,3882.5,732.782,1
+"Natural Gas and Natural Gas Liquids Suppliers,Petroleum and Natural Gas Systems,Suppliers of CO2",2010,49742.312,49690.8,23.5,28.012,1
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2010,578456.264,571080.3,4182.0,3193.964,4
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2011,416564.184,412418.6,1602.75,2542.834,3
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2012,558259.108,550499.7,3007.5,4751.907999999999,4
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2013,593981.458,587213.6,2194.75,4573.108,4
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2014,612949.4580000001,607710.2,1396.25,3843.008,4
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2015,572829.678,567694.3,1347.5,3787.8779999999997,4
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2016,557405.1699999999,552111.0,1296.5,3997.67,4
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2017,393846.034,388989.9,1166.0,3690.134,4
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2018,356196.94,352991.3,879.75,2325.8900000000003,3
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2019,250531.664,248823.59999999998,466.0,1242.0639999999999,3
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2020,159539.658,158654.2,238.5,646.9580000000001,3
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2021,148046.972,147316.5,212.25,518.222,3
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2022,192336.566,191351.19999999998,242.75,742.616,3
+"Natural Gas and Natural Gas Liquids Suppliers,Power Plants",2023,185701.146,184765.5,197.5,738.146,3
+Other,2010,81006359.32248212,80479314.021943,164029.5662739645,363015.73426516406,994
+Other,2011,106905876.58672874,60604618.17401339,40762147.22261211,389825.31829373626,1060
+Other,2012,104657477.21850465,60949730.72241486,38649360.98505078,340269.8029423075,1103
+Other,2013,106580713.880018,61015902.3,40857772.25,317367.616,1122
+Other,2014,110052790.468859,63585347.4,40823052.25,359165.692,1156
+Other,2015,111512204.4980905,62113121.7,43694148.75,365067.88,1156
+Other,2016,106243786.8303465,61667692.5,38990521.0,351862.308,1103
+Other,2017,104360856.9205692,60915813.9,37940598.5,382034.808,1069
+Other,2018,104530409.364085,62847276.4,35823101.25,393115.64,1085
+Other,2019,102713798.3330001,62399405.6,34917396.5,369958.656,1081
+Other,2020,95469127.7329053,59192928.4,30869054.75,413787.006,1075
+Other,2021,97467173.2140636,62318682.4,29379630.0,433242.532,1063
+Other,2022,95372290.9272474,63527346.5,26312147.25,430422.85599999997,1079
+Other,2023,94852955.4205754,61189979.18721472,28843731.010486957,406687.62343921873,1064
+"Other,Petroleum Product Suppliers,Power Plants,Refineries",2021,6782152.256,6730640.4,39108.5,12403.356,1
+"Other,Petroleum Product Suppliers,Power Plants,Refineries",2022,7439548.832,7381671.6,43913.25,13963.982,1
+"Other,Petroleum Product Suppliers,Power Plants,Refineries",2023,6633324.474,6583676.9,38051.5,11596.074,1
+"Other,Petroleum and Natural Gas Systems",2015,58593.928,58401.600000000006,159.25,33.078,2
+"Other,Petroleum and Natural Gas Systems",2016,42178.742,42061.2,94.0,23.542,2
+"Other,Petroleum and Natural Gas Systems",2017,46041.776,45924.100000000006,91.75,25.926000000000002,2
+"Other,Petroleum and Natural Gas Systems",2018,54458.796,54225.9,202.5,30.396,2
+"Other,Petroleum and Natural Gas Systems",2019,25392.604,25292.800000000003,85.5,14.304,2
+"Other,Petroleum and Natural Gas Systems",2020,29392.89,29074.5,302.0,16.39,2
+"Other,Petroleum and Natural Gas Systems",2021,37513.111999999994,36929.8,562.75,20.561999999999998,2
+"Other,Petroleum and Natural Gas Systems",2022,37857.566,35465.1,2372.5,19.966,3
+"Other,Petroleum and Natural Gas Systems",2023,51235.224,49213.2,2003.25,18.774,4
+"Other,Power Plants",2011,8081469.468,8041397.1,14976.0,25096.368,10
+"Other,Power Plants",2012,6500506.496,6474925.0,9697.5,15883.996000000001,10
+"Other,Power Plants",2013,16307918.474,16173213.2,69722.5,64982.774,10
+"Other,Power Plants",2014,15198778.562,15062328.2,68940.25,67510.11200000001,8
+"Other,Power Plants",2015,16574103.185999999,16406130.900000002,92717.75,75254.53600000001,8
+"Other,Power Plants",2016,15711456.273999998,15530363.600000001,110544.75,70547.924,9
+"Other,Power Plants",2017,15460069.308,15283066.2,105976.0,71027.108,9
+"Other,Power Plants",2018,17696625.322,17500039.5,122998.0,73587.822,10
+"Other,Power Plants",2019,17315702.882000003,17136960.2,104016.5,74726.182,10
+"Other,Power Plants",2020,16298156.914,16123422.799999999,108163.0,66571.114,10
+"Other,Power Plants",2021,18077665.812,17898726.6,106899.5,72039.712,8
+"Other,Power Plants",2022,16201521.874,16000703.799999999,137407.25,63410.82399999999,7
+"Other,Power Plants",2023,15843790.984000001,15659290.9,121575.0,62925.084,7
+"Other,Suppliers of CO2",2010,8157570.0,8117738.2,14695.5,25136.300000000003,43
+"Other,Suppliers of CO2",2011,1684393.744,1679775.6,1637.25,2980.8940000000002,25
+"Other,Suppliers of CO2",2012,1602168.584,1598428.1,1257.25,2483.234,25
+"Other,Suppliers of CO2",2013,1788120.712,1784176.6,1360.75,2583.362,28
+"Other,Suppliers of CO2",2014,1834219.148,1830826.1,1381.25,2011.798,28
+"Other,Suppliers of CO2",2015,1935402.1840000001,1932660.5999999999,1167.25,1574.334,28
+"Other,Suppliers of CO2",2016,1723926.842,1722093.9,826.0,1006.942,23
+"Other,Suppliers of CO2",2017,1735235.24,1733356.7,841.5,1037.04,24
+"Other,Suppliers of CO2",2018,2045730.8260000001,2043562.7,980.0,1188.126,26
+"Other,Suppliers of CO2",2019,2640413.46,2637597.3,1275.5,1540.66,31
+"Other,Suppliers of CO2",2020,2450895.492,2448307.8,1171.0,1416.692,35
+"Other,Suppliers of CO2",2021,2784489.15,2781519.6,1338.0,1631.55,37
+"Other,Suppliers of CO2",2022,3055745.612,3052493.4,1466.0,1786.212,38
+"Other,Suppliers of CO2",2023,3110359.604,3107100.9,1478.75,1779.954,38
+"Other,Suppliers of CO2,Waste",2011,6961546.746,6545517.3,403490.5,12538.946,19
+"Other,Suppliers of CO2,Waste",2012,6418556.448,6230355.7,27571.0,160629.74800000002,20
+"Other,Suppliers of CO2,Waste",2013,6045093.472,6004526.199999999,20537.5,20029.772,19
+"Other,Suppliers of CO2,Waste",2014,3289014.96,3269528.1,12351.25,7135.61,17
+"Other,Suppliers of CO2,Waste",2015,2660577.638,2647953.0,8689.25,3935.388,15
+"Other,Suppliers of CO2,Waste",2016,6821966.218,6768148.3,31001.25,22816.667999999998,16
+"Other,Suppliers of CO2,Waste",2017,2506797.614,2498631.6,6618.5,1547.514,14
+"Other,Suppliers of CO2,Waste",2018,2818541.068,2808734.8,8125.25,1681.018,14
+"Other,Suppliers of CO2,Waste",2019,2288054.14,2279184.6,7497.25,1372.29,12
+"Other,Suppliers of CO2,Waste",2020,2036732.722,2028654.2,6822.75,1255.772,11
+"Other,Suppliers of CO2,Waste",2021,2028791.734,2019379.3,8188.25,1224.184,9
+"Other,Suppliers of CO2,Waste",2022,2019309.19,2008647.4,9438.5,1223.29,9
+"Other,Suppliers of CO2,Waste",2023,2146117.094,2136581.1,8246.25,1289.7440000000001,9
+"Other,Waste",2011,19401384.532,17223331.8,2126242.75,51809.981999999996,149
+"Other,Waste",2012,17234622.946,15040594.6,2144075.5,49952.846,141
+"Other,Waste",2013,17296942.482,15062952.9,2170647.0,63342.582,141
+"Other,Waste",2014,21101236.904,18003354.1,3039237.0,58645.804,140
+"Other,Waste",2015,19376938.018,16902411.0,2421905.0,52788.018,133
+"Other,Waste",2016,18448597.164,16198645.4,2199457.75,50494.014,126
+"Other,Waste",2017,17671609.319,15527136.5,2101030.975,43441.844,124
+"Other,Waste",2018,17758709.41,15500872.8,2215402.9,42433.71,122
+"Other,Waste",2019,16748746.67,14447533.5,2258587.25,42625.92,112
+"Other,Waste",2020,15264452.512,13021022.0,2206078.0,37352.512,112
+"Other,Waste",2021,14435246.522,12258476.700000001,2137638.25,39131.572,107
+"Other,Waste",2022,14298933.22,12117137.5,2144764.75,37030.97,107
+"Other,Waste",2023,13620765.242,11616214.5,1968834.25,35716.492,110
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2010,2067.066,2060.0,2.0,5.066,1
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2012,477004.06799999997,476875.00000000006,57.25,71.81800000000001,3
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2013,347332.17799999996,347218.8,50.5,62.878,3
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2014,409003.24000000005,408826.19999999995,71.25,105.78999999999999,5
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2015,328426.45399999997,328306.5,53.5,66.454,4
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2016,61389.684,61319.3,30.75,39.634,3
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2017,74992.63,74907.7,37.25,47.68,3
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2018,375736.79800000007,374911.79999999993,258.5,566.4979999999999,5
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2019,276516.226,275850.5,200.25,465.476,5
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2020,231620.53600000002,231062.8,168.25,389.48600000000005,3
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2021,298572.80799999996,297849.89999999997,217.5,505.408,4
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2022,250547.056,249931.6,184.25,431.206,3
+"Petroleum Product Suppliers,Petroleum and Natural Gas Systems",2023,264819.036,264167.5,195.0,456.53599999999994,3
+"Petroleum Product Suppliers,Power Plants,Refineries",2010,7627297.27,7575614.1,33828.5,17854.67,1
+"Petroleum Product Suppliers,Power Plants,Refineries",2012,7276497.55,7222665.4,36384.25,17447.9,1
+"Petroleum Product Suppliers,Power Plants,Refineries",2013,7296911.898,7245011.0,39585.75,12315.148,1
+"Petroleum Product Suppliers,Power Plants,Refineries",2014,7229059.9,7178186.5,39348.25,11525.15,1
+"Petroleum Product Suppliers,Power Plants,Refineries",2015,7192877.502,7143694.6,36846.0,12336.902,1
+"Petroleum Product Suppliers,Power Plants,Refineries",2016,7195194.156,7142485.5,33086.25,19622.406,1
+"Petroleum Product Suppliers,Power Plants,Refineries",2017,7115794.78,7063742.7,32768.5,19283.58,1
+"Petroleum Product Suppliers,Power Plants,Refineries",2018,6973092.116,6923111.9,38189.25,11790.966,1
+"Petroleum Product Suppliers,Power Plants,Refineries",2019,7655594.264,7601175.1,39521.25,14897.914,1
+"Petroleum Product Suppliers,Power Plants,Refineries",2020,6558089.82,6506822.4,39633.5,11633.92,1
+"Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2021,3306960.116,3297457.2,3627.25,5875.666,1
+"Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2022,3680307.136,3667359.5,4832.5,8115.136,1
+"Petroleum Product Suppliers,Power Plants,Refineries,Suppliers of CO2",2023,3416063.078,3405472.5,3964.25,6626.328,1
+"Petroleum Product Suppliers,Pulp and Paper,Waste",2011,195922.404,140678.3,39741.25,15502.854,1
+"Petroleum Product Suppliers,Pulp and Paper,Waste",2012,171377.672,115964.8,39495.5,15917.372,1
+"Petroleum Product Suppliers,Refineries",2010,50796879.066,50433914.552999996,218767.975,144196.538,53
+"Petroleum Product Suppliers,Refineries",2011,58923918.167,58473120.536,290288.275,160509.356,55
+"Petroleum Product Suppliers,Refineries",2012,61822690.09,61372429.72,281126.0,169134.37,70
+"Petroleum Product Suppliers,Refineries",2013,63332065.156,62874306.866,277496.6,180261.69,70
+"Petroleum Product Suppliers,Refineries",2014,66164804.82,65695577.91,277696.35,191530.56,68
+"Petroleum Product Suppliers,Refineries",2015,66402111.672,65913089.6,296383.25,192638.822,70
+"Petroleum Product Suppliers,Refineries",2016,66629973.956,66165658.1,275459.25,188856.606,69
+"Petroleum Product Suppliers,Refineries",2017,66496864.982,66047532.4,257626.5,191706.082,70
+"Petroleum Product Suppliers,Refineries",2018,66868513.716,66369341.0,308097.5,191075.21600000001,68
+"Petroleum Product Suppliers,Refineries",2019,64524278.552,64045404.8,296766.25,182107.502,68
+"Petroleum Product Suppliers,Refineries",2020,56142321.014,55698667.7,278958.25,164695.06399999998,69
+"Petroleum Product Suppliers,Refineries",2021,59972215.352,59513061.8,285621.0,173532.552,69
+"Petroleum Product Suppliers,Refineries",2022,64511680.304,64036770.1,293436.25,181473.954,72
+"Petroleum Product Suppliers,Refineries",2023,63995988.91,63521331.4,295449.25,179208.26,71
+"Petroleum Product Suppliers,Refineries,Waste",2011,880806.238,868744.2,9899.75,2162.288,1
+"Petroleum Product Suppliers,Refineries,Waste",2012,850721.584,841178.7,7491.75,2051.134,1
+"Petroleum Product Suppliers,Refineries,Waste",2013,781999.838,777650.7,2462.5,1886.638,1
+"Petroleum Product Suppliers,Refineries,Waste",2014,715707.724,709084.7,4704.5,1918.524,1
+"Petroleum Product Suppliers,Refineries,Waste",2015,836507.096,829469.1,4787.5,2250.496,1
+"Petroleum Product Suppliers,Refineries,Waste",2016,720536.574,711526.1,7010.0,2000.474,1
+"Petroleum Product Suppliers,Refineries,Waste",2017,708377.416,700879.1,5407.25,2091.066,1
+"Petroleum Product Suppliers,Refineries,Waste",2018,703881.522,697086.3,4749.75,2045.472,1
+"Petroleum Product Suppliers,Refineries,Waste",2019,760152.382,751170.9,6788.5,2192.982,1
+"Petroleum Product Suppliers,Refineries,Waste",2020,633712.418,624448.1,7330.0,1934.318,1
+"Petroleum Product Suppliers,Refineries,Waste",2021,710450.844,703487.6,4854.0,2109.244,1
+"Petroleum Product Suppliers,Refineries,Waste",2022,642476.434,633510.4,7011.75,1954.284,1
+"Petroleum Product Suppliers,Refineries,Waste",2023,733267.452,723226.6,8014.75,2026.102,1
+Petroleum and Natural Gas Systems,2010,65453583.474,65368946.176,33917.4,50719.898,886
+Petroleum and Natural Gas Systems,2011,94207776.098,84877422.15,9271327.3,59026.648,1168
+Petroleum and Natural Gas Systems,2012,96164522.99,86502715.308,9610400.0,51407.682,1287
+Petroleum and Natural Gas Systems,2013,93754182.192,84165789.479,9539720.075,48672.638,1373
+Petroleum and Natural Gas Systems,2014,96540318.077,87028173.343,9463434.25,48710.484,1525
+Petroleum and Natural Gas Systems,2015,98199164.7572,89308925.85524,8838530.681,51708.22096,1563
+Petroleum and Natural Gas Systems,2016,76198630.258,67163619.1,8995542.25,39468.908,1085
+Petroleum and Natural Gas Systems,2017,79745253.776,71323819.6,8379502.0,41932.176,1082
+Petroleum and Natural Gas Systems,2018,91771711.6652069,82850613.11070432,8872791.885486972,48306.66901560971,1136
+Petroleum and Natural Gas Systems,2019,101532812.3004322,92606810.62831903,8861060.770998886,64940.9011142885,1186
+Petroleum and Natural Gas Systems,2020,98465937.2324709,90715063.53684315,7684591.433942442,66282.26168530517,1205
+Petroleum and Natural Gas Systems,2021,101955306.08859208,94758855.05793788,7130422.651735647,66028.3789185565,1206
+Petroleum and Natural Gas Systems,2022,108417952.9284745,100917018.726783,7442953.527070009,57980.67462148321,1188
+Petroleum and Natural Gas Systems,2023,109440511.90610573,102401372.85057718,6979731.137531593,59407.91799696575,1172
+"Petroleum and Natural Gas Systems,Power Plants",2011,5084356.844,5061480.100000001,9257.25,13619.493999999999,4
+"Petroleum and Natural Gas Systems,Power Plants",2012,5990668.682,5962720.3,10542.5,17405.882,4
+"Petroleum and Natural Gas Systems,Power Plants",2013,5318949.5600000005,5292745.1,11298.5,14905.960000000001,4
+"Petroleum and Natural Gas Systems,Power Plants",2014,5770057.816,5738305.699999999,14656.75,17095.366,4
+"Petroleum and Natural Gas Systems,Power Plants",2015,5533257.728,5499771.5,16303.25,17182.978,4
+"Petroleum and Natural Gas Systems,Power Plants",2016,3314813.824,3286847.9,14969.25,12996.673999999999,3
+"Petroleum and Natural Gas Systems,Power Plants",2017,3580744.102,3558286.2,9860.25,12597.652,3
+"Petroleum and Natural Gas Systems,Power Plants",2018,2642042.352,2620747.5,8056.5,13238.352,2
+"Petroleum and Natural Gas Systems,Power Plants",2019,2257866.836,2239235.0,7231.25,11400.586,2
+"Petroleum and Natural Gas Systems,Power Plants",2020,2487581.486,2464852.9,9428.25,13300.336,2
+"Petroleum and Natural Gas Systems,Power Plants",2021,2299866.024,2277237.1,11010.5,11618.424,2
+"Petroleum and Natural Gas Systems,Power Plants",2022,1702768.164,1687147.3,6638.25,8982.614,1
+"Petroleum and Natural Gas Systems,Power Plants",2023,3176984.162,3156161.3,9746.5,11076.362000000001,2
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2010,3001153.363,2999374.069,780.1,999.194,14
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2011,1045334.501,968135.451,76960.65,238.4,9
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2012,613272.007,558019.252,55048.625,204.13,7
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2013,1164639.5019999999,1052701.3,111677.75,260.452,6
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2014,990426.272,898925.7999999999,91243.0,257.472,8
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2015,835851.534,724939.8,110663.5,248.234,7
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2016,1450410.308,1355789.8,94390.75,229.758,8
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2017,1418624.578,1322883.1,95470.0,271.478,9
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2018,945785.072,854497.5,90970.5,317.072,10
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2019,763269.206,715219.9,47782.0,267.306,9
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2020,791360.382,629964.1,161185.0,211.28199999999998,9
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2021,1170916.932,1084698.5,85992.25,226.182,7
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2022,661704.026,565707.8,95791.5,204.726,7
+"Petroleum and Natural Gas Systems,Suppliers of CO2",2023,702344.596,660205.7,41885.0,253.896,9
+Power Plants,2010,2295212418.73904,2281161772.06956,4391406.575079881,9659240.094399864,1569
+Power Plants,2011,2136856941.4494953,2124084287.9199486,3945269.660853961,8827383.868692767,1558
+Power Plants,2012,1995041137.172,1983789227.2,3471662.2,7780247.772,1574
+Power Plants,2013,2006485538.2514496,1994961468.2558649,3496033.59594749,8028036.399637248,1542
+Power Plants,2014,1997660260.6128547,1985955074.9585907,3770303.936781215,7934881.717482808,1514
+Power Plants,2015,1874087887.088517,1863744027.0706494,3390644.466850319,6953215.55101706,1451
+Power Plants,2016,1770801108.2550318,1761431778.868292,2993480.52126039,6375848.865479385,1373
+Power Plants,2017,1696136063.7072654,1687001895.201288,2975507.967387485,6158660.538589682,1340
+Power Plants,2018,1710453798.6273994,1701656845.114038,2877614.54354753,5919338.969814076,1354
+Power Plants,2019,1577764617.4135945,1570147771.7705154,2523087.85363532,5093757.789443638,1334
+Power Plants,2020,1424970597.8241765,1418620473.346932,2101728.029555245,4248396.447689333,1305
+Power Plants,2021,1521330116.395053,1514160502.837604,2348234.429110245,4821379.128338675,1307
+Power Plants,2022,1513772871.414518,1506915591.2966344,2282513.01237086,4574767.105512872,1303
+Power Plants,2023,1403940313.3861656,1398127521.3746989,1965076.7647279701,3847715.246738784,1290
+"Power Plants,Refineries",2011,7079397.05,7024758.5,37511.0,17127.55,1
+"Power Plants,Suppliers of CO2",2010,12131023.81,12040700.299999999,33034.5,57289.01,3
+"Power Plants,Suppliers of CO2",2011,3092397.526,3046862.0,16655.75,28879.775999999998,2
+"Power Plants,Suppliers of CO2",2012,12140137.752,12061711.7,28973.25,49452.801999999996,3
+"Power Plants,Suppliers of CO2",2013,12187769.218,12112963.8,25131.5,49673.918000000005,3
+"Power Plants,Suppliers of CO2",2014,11973576.404,11900554.5,24672.0,48349.904,3
+"Power Plants,Suppliers of CO2",2015,10875606.826,10804464.4,26267.5,44874.926,3
+"Power Plants,Suppliers of CO2",2016,24307492.52,24140624.9,61393.5,105474.12,4
+"Power Plants,Suppliers of CO2",2017,25347128.966,25164872.299999997,67052.25,115204.416,4
+"Power Plants,Suppliers of CO2",2018,25366345.536,25180559.6,68386.75,117399.186,4
+"Power Plants,Suppliers of CO2",2019,22474582.358000003,22316208.5,58329.0,100044.85800000001,4
+"Power Plants,Suppliers of CO2",2020,12680249.906,12583388.4,35496.75,61364.756,3
+"Power Plants,Suppliers of CO2",2021,15323195.095999999,15210456.7,41337.0,71401.396,2
+"Power Plants,Suppliers of CO2",2022,13842317.15,13740636.799999999,37290.0,64390.350000000006,2
+"Power Plants,Suppliers of CO2",2023,10892394.824000001,10811029.9,29851.75,51513.174,2
+"Power Plants,Waste",2010,6681780.45,6629116.9,19444.0,33219.55,1
+"Power Plants,Waste",2011,46109377.096,45646288.9,233828.75,229259.446,6
+"Power Plants,Waste",2012,47482361.087,47008584.2,236674.975,237101.91199999998,6
+"Power Plants,Waste",2013,44075253.317999996,43518255.9,334714.45,222282.968,7
+"Power Plants,Waste",2014,47179955.588,46594219.699999996,340249.15,245486.738,7
+"Power Plants,Waste",2015,41545705.049,41014579.800000004,319891.525,211233.72400000002,8
+"Power Plants,Waste",2016,39097067.672,38584970.0,313521.2,198576.472,9
+"Power Plants,Waste",2017,36460720.513,35975714.8,301182.625,183823.088,9
+"Power Plants,Waste",2018,38148151.343,37660508.300000004,298691.375,188951.668,9
+"Power Plants,Waste",2019,25330281.838,24959674.8,253692.4,116914.63799999999,9
+"Power Plants,Waste",2020,23056768.658,22703834.3,249551.9,103382.458,8
+"Power Plants,Waste",2021,25206208.552,24836676.2,254370.55,115161.802,8
+"Power Plants,Waste",2022,23981536.667999998,23626621.6,246043.45,108871.618,8
+"Power Plants,Waste",2023,22513782.803,22205081.0,223522.675,85179.128,7
+Pulp and Paper,2010,43822112.352,41006643.9,979714.25,1835754.202,222
+Pulp and Paper,2011,16884720.718,16133321.3,267725.75,483673.668,137
+Pulp and Paper,2012,16384039.012,15643850.6,262749.5,477438.912,134
+Pulp and Paper,2013,15099742.652,14849506.3,74141.0,176095.35199999998,138
+Pulp and Paper,2014,15688798.098,15468682.9,53592.5,166522.698,140
+Pulp and Paper,2015,15615945.228,15412961.5,48758.0,154225.728,140
+Pulp and Paper,2016,14335334.28,14162483.1,42354.0,130497.18,135
+Pulp and Paper,2017,13422877.312,13264957.7,38110.5,119809.112,132
+Pulp and Paper,2018,13442907.094,13288472.3,36411.0,118023.794,128
+Pulp and Paper,2019,12950714.612,12806291.4,33829.75,110593.462,131
+Pulp and Paper,2020,12964192.97,12829704.6,31733.5,102754.87,132
+Pulp and Paper,2021,12912380.804,12791290.2,28592.0,92498.604,126
+Pulp and Paper,2022,12581749.996,12460571.8,28291.0,92887.196,120
+Pulp and Paper,2023,12283035.876520028,12166673.771110361,27112.31695822955,89249.78845143787,119
+"Pulp and Paper,Suppliers of CO2",2010,2405179.702,2207752.0,69399.75,128027.952,9
+"Pulp and Paper,Suppliers of CO2",2011,259031.59000000003,242179.4,5929.0,10923.189999999999,2
+"Pulp and Paper,Suppliers of CO2",2012,261071.942,243906.30000000002,6019.25,11146.392,2
+"Pulp and Paper,Suppliers of CO2",2013,187547.126,181958.7,2098.25,3490.176,1
+"Pulp and Paper,Suppliers of CO2",2014,137932.104,133997.0,762.0,3173.104,1
+"Pulp and Paper,Suppliers of CO2",2015,150743.046,146655.6,786.5,3300.946,1
+"Pulp and Paper,Suppliers of CO2",2016,168043.14,163801.1,821.0,3421.04,1
+"Pulp and Paper,Suppliers of CO2",2017,179059.19,175054.0,792.75,3212.44,1
+"Pulp and Paper,Suppliers of CO2",2018,164948.704,160698.5,831.25,3418.954,1
+"Pulp and Paper,Suppliers of CO2",2019,164000.67,159952.2,803.25,3245.22,1
+"Pulp and Paper,Suppliers of CO2",2020,154517.582,150558.7,782.5,3176.382,1
+"Pulp and Paper,Suppliers of CO2",2021,156404.856,152197.1,804.0,3403.756,1
+"Pulp and Paper,Suppliers of CO2",2022,155242.292,151093.0,810.5,3338.792,1
+"Pulp and Paper,Suppliers of CO2",2023,153116.758,150067.9,487.25,2561.608,1
+"Pulp and Paper,Suppliers of CO2,Waste",2011,2284141.98,1936230.2,257622.25,90289.53,6
+"Pulp and Paper,Suppliers of CO2,Waste",2012,2350512.702,1936557.4,329077.75,84877.552,6
+"Pulp and Paper,Suppliers of CO2,Waste",2013,2188805.316,1951044.2000000002,213253.0,24508.116,6
+"Pulp and Paper,Suppliers of CO2,Waste",2014,2657605.2260000003,2329451.3,295869.5,32284.426,7
+"Pulp and Paper,Suppliers of CO2,Waste",2015,2612733.52,2288275.8,297558.75,26898.97,7
+"Pulp and Paper,Suppliers of CO2,Waste",2016,2549277.13,2232756.5,297058.25,19462.38,7
+"Pulp and Paper,Suppliers of CO2,Waste",2017,2444569.372,2129899.1,295124.75,19545.522,7
+"Pulp and Paper,Suppliers of CO2,Waste",2018,2377679.586,2060740.7999999998,298043.5,18895.286,7
+"Pulp and Paper,Suppliers of CO2,Waste",2019,1871237.496,1575522.7,284159.25,11555.546,6
+"Pulp and Paper,Suppliers of CO2,Waste",2020,1250852.488,1005696.7,235431.75,9724.038,4
+"Pulp and Paper,Suppliers of CO2,Waste",2021,1034222.5560000001,789599.9,234648.0,9974.656,4
+"Pulp and Paper,Suppliers of CO2,Waste",2022,825369.4,599789.4,216900.75,8679.25,3
+"Pulp and Paper,Suppliers of CO2,Waste",2023,709742.1020000001,482850.10000000003,218481.25,8410.752,3
+"Pulp and Paper,Waste",2011,30352866.07,22745551.8,6275853.25,1331461.02,87
+"Pulp and Paper,Waste",2012,29165235.298,21821544.6,5995933.25,1347757.448,87
+"Pulp and Paper,Waste",2013,27083315.446,21596023.1,5049269.0,438023.346,86
+"Pulp and Paper,Waste",2014,25894382.98,20532497.3,4935809.75,426075.93,84
+"Pulp and Paper,Waste",2015,25061667.058000002,19801983.9,4858256.0,401427.158,82
+"Pulp and Paper,Waste",2016,25128238.716000002,20245276.3,4498403.25,384559.166,82
+"Pulp and Paper,Waste",2017,23572443.476,19132362.5,4063614.0,376466.976,82
+"Pulp and Paper,Waste",2018,23910516.796,19547728.6,3999801.25,362986.946,83
+"Pulp and Paper,Waste",2019,24563885.086,20208553.5,4012443.25,342888.336,84
+"Pulp and Paper,Waste",2020,24699148.584,20410012.8,3961504.75,327631.034,85
+"Pulp and Paper,Waste",2021,24929002.228,20691815.0,3909302.0,327885.228,84
+"Pulp and Paper,Waste",2022,23852432.214,19648246.0,3875241.0,328945.214,85
+"Pulp and Paper,Waste",2023,22559149.023105673,18446820.7747706,3816271.927106096,296056.32122897904,85
+Refineries,2010,27721686.678,27519997.6,137064.5,64624.578,35
+Refineries,2011,17170168.076,17057953.5,72316.25,39898.326,33
+Refineries,2012,6805127.088,6749083.3,34325.25,21718.538,14
+Refineries,2013,6565491.812,6505338.1,39146.5,21007.212,14
+Refineries,2014,6900126.723999999,6844532.7,35274.0,20320.024,14
+Refineries,2015,6699419.924,6649578.5,32896.25,16945.174,13
+Refineries,2016,6396632.109999999,6348167.800000001,32418.5,16045.81,12
+Refineries,2017,6414654.399999999,6368613.0,29785.5,16255.9,11
+Refineries,2018,5977802.108,5940799.7,22081.25,14921.158000000001,8
+Refineries,2019,5904310.986,5866383.1,23145.0,14782.885999999999,7
+Refineries,2020,4861760.0,4832666.2,17032.25,12061.55,7
+Refineries,2021,4987843.782,4958015.9,17562.5,12265.382,7
+Refineries,2022,3756725.508,3731873.0,15794.5,9058.008,6
+Refineries,2023,3625841.3200000003,3601752.9000000004,15620.75,8467.67,4
+"Refineries,Waste",2018,488049.836,478763.7,7838.75,1447.386,1
+"Refineries,Waste",2019,497273.616,488369.4,7394.25,1509.966,1
+"Refineries,Waste",2020,443277.622,434957.0,6930.75,1389.872,1
+"Refineries,Waste",2021,482168.0,474133.8,6611.25,1422.95,1
+"Refineries,Waste",2022,490237.992,482513.4,6293.0,1431.592,1
+"Refineries,Waste",2023,491480.394,483548.7,6448.25,1483.444,1
+Unknown,2023,0.0,0.0,0.0,0.0,8737
+Waste,2010,110906920.04637,9377028.734143,101177957.953875,351933.358352,1303
+Waste,2011,104597358.020881,10110980.323756,94134059.300125,352318.397,1328
+Waste,2012,105345844.979974,10256326.653607,94733238.301275,356280.025092,1342
+Waste,2013,102074354.964,10541907.4,91179394.15,353053.414,1331
+Waste,2014,101757235.46,10574883.6,90829871.5,352480.36,1328
+Waste,2015,100823646.186,10830207.9,89642086.75,351351.536,1255
+Waste,2016,97580222.978,11121566.3,86100256.25,358400.428,1228
+Waste,2017,96181932.442,10101938.9,85735593.75,344399.792,1223
+Waste,2018,98326041.964,10468221.8,87505921.5,351898.664,1223
+Waste,2019,99740139.977773,10118240.069773,89279178.75,342721.158,1213
+Waste,2020,95519562.958,10326029.7,84858277.0,335256.25800000003,1212
+Waste,2021,93505944.536,9885667.9,83282201.0,338075.636,1208
+Waste,2022,91762509.178226,9952619.078688,81491353.91945,318536.180088,1203
+Waste,2023,92215519.07936889,9777495.99,82127848.5973689,310174.492,1196
